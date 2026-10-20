@@ -1,16 +1,20 @@
-## Hi there 👋
+# Jason Ku
 
-<!--
-**sreyg/sreyg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analyst. UC San Diego, B.S. Joint Mathematics-Economics, June 2026.
+Based in the Bay Area.
 
-Here are some ideas to get you started:
+SQL, Python, Power BI, Tableau, Excel, BigQuery, Supabase.
+Google Data Analytics certified. Working toward PL-300.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured project
+
+**Loot box revenue optimization** — game-theoretic model (Stackelberg
+framework) of loot box pricing with Monte Carlo simulation, validated against
+129 real Steam Market prices. Found the revenue-maximizing price (~$7.75/box)
+and that pity mechanics cut revenue 14% in multi-tier systems.
+[heterogeneous_player_optimization_model](https://github.com/sreyg/heterogeneous_player_optimization_model)
+
+## Contact
+
+- linkedin.com/in/jasonku123
+- github.com/sreyg
